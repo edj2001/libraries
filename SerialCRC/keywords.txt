@@ -1,0 +1,2 @@
+SerialCRC	KEYWORD1
+swSerialCRC	KEYWORD2
